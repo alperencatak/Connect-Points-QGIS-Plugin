@@ -1,5 +1,5 @@
 # ツ Subject 
-Connect Points plugin.
+Creating Connect Points plugin.
 
 # ツ Aim and objectives:
 <p align="justify">Connects the dots between the two layers using a link field.</p>
